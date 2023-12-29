@@ -1,0 +1,12 @@
+E:\konoplyev\Svyaz-main\Svyaznoi\DNSContextContracts\obj\Debug\net6.0\DNSContextContracts.csproj.AssemblyReference.cache
+E:\konoplyev\Svyaz-main\Svyaznoi\DNSContextContracts\obj\Debug\net6.0\DNSContextContracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\konoplyev\Svyaz-main\Svyaznoi\DNSContextContracts\obj\Debug\net6.0\DNSContextContracts.AssemblyInfoInputs.cache
+E:\konoplyev\Svyaz-main\Svyaznoi\DNSContextContracts\obj\Debug\net6.0\DNSContextContracts.AssemblyInfo.cs
+E:\konoplyev\Svyaz-main\Svyaznoi\DNSContextContracts\obj\Debug\net6.0\DNSContextContracts.csproj.CoreCompileInputs.cache
+E:\konoplyev\Svyaz-main\Svyaznoi\DNSContextContracts\bin\Debug\net6.0\DNSContextContracts.deps.json
+E:\konoplyev\Svyaz-main\Svyaznoi\DNSContextContracts\bin\Debug\net6.0\DNSContextContracts.dll
+E:\konoplyev\Svyaz-main\Svyaznoi\DNSContextContracts\bin\Debug\net6.0\DNSContextContracts.pdb
+E:\konoplyev\Svyaz-main\Svyaznoi\DNSContextContracts\obj\Debug\net6.0\DNSContextContracts.dll
+E:\konoplyev\Svyaz-main\Svyaznoi\DNSContextContracts\obj\Debug\net6.0\refint\DNSContextContracts.dll
+E:\konoplyev\Svyaz-main\Svyaznoi\DNSContextContracts\obj\Debug\net6.0\DNSContextContracts.pdb
+E:\konoplyev\Svyaz-main\Svyaznoi\DNSContextContracts\obj\Debug\net6.0\ref\DNSContextContracts.dll

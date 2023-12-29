@@ -1,0 +1,5 @@
+E:\konoplyev\Svyaz-main\Svyaznoi\DNS.Context\obj\Debug\net6.0\DNS.Context.csproj.AssemblyReference.cache
+E:\konoplyev\Svyaz-main\Svyaznoi\DNS.Context\obj\Debug\net6.0\DNS.Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\konoplyev\Svyaz-main\Svyaznoi\DNS.Context\obj\Debug\net6.0\DNS.Context.AssemblyInfoInputs.cache
+E:\konoplyev\Svyaz-main\Svyaznoi\DNS.Context\obj\Debug\net6.0\DNS.Context.AssemblyInfo.cs
+E:\konoplyev\Svyaz-main\Svyaznoi\DNS.Context\obj\Debug\net6.0\DNS.Context.csproj.CoreCompileInputs.cache
